@@ -12,7 +12,7 @@ cargo run
 535583 refers to the page ID used in the URL.
 
 ## License
-MIT
+[MIT](https://github.com/shinshin86/check_ha_535583_rs/blob/main/LICENSE)
 
 ## Author
 [Yuki Shindo](https://shinshin86.com)
